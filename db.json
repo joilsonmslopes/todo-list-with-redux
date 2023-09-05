@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "42c58b6e-a454-4dac-bc79-639848324c48",
+      "title": "Fazer café",
+      "isCompleted": false
+    },
+    {
+      "id": "25e2c56c-7c10-445b-8239-d695f993507f",
+      "title": "Entender o Redux",
+      "isCompleted": false
+    },
+    {
+      "id": "1b0ed9d0-d8a4-44bc-955d-9fba7d4bda18",
+      "title": "Criar uma aplicação para aprofundar em Redux, Redux Saga",
+      "isCompleted": false
+    },
+    {
+      "id": "1e992788-e73a-4c77-9f87-d77d827f584c",
+      "title": "Estudar redux sauce",
+      "isCompleted": true
+    }
+  ]
+}
